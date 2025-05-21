@@ -32,6 +32,12 @@ A simple **Java Swing** application integrated with **MySQL** (via **phpMyAdmin*
 
 ---
 
+## 📸 **Images**
+
+All screenshots demonstrating the application's functionality are stored in the images/ folder in this repository.
+
+---
+
 ## 🗃️ **Database Setup**
 
 1. Start **XAMPP** and run **Apache** & **MySQL** services.
@@ -48,6 +54,3 @@ CREATE TABLE `record` (
   PRIMARY KEY (`Id`)
 );
 
-## 📸 Images
-
-All screenshots demonstrating the application's functionality are stored in the images/ folder in this repository.
