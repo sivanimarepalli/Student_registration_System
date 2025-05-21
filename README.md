@@ -48,5 +48,6 @@ CREATE TABLE `record` (
   PRIMARY KEY (`Id`)
 );
 
-## 📸 **Images**
+## 📸 Images
+
 All screenshots demonstrating the application's functionality are stored in the images/ folder in this repository.
