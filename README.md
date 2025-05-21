@@ -48,39 +48,5 @@ CREATE TABLE `record` (
   PRIMARY KEY (`Id`)
 );
 
-## 📸 **Screenshots**
-
-Here are a few snapshots of the application to showcase its functionality:
-
-### 🖼️ Add Student Form
-A simple form to input student details like Name, Mobile, and Course.
-
-![Add Form](images/image3.png)
-
----
-
-### 📋 Student List Table
-Dynamically displays all students stored in the database.
-
-![Student Table](images/image1.png)
-
----
-
-### ⚠️ Delete Confirmation Dialog
-Confirmation dialog before a record is deleted to avoid accidental removals.
-
-![Delete Confirmation](images/image4.png)
-
----
-
-### ♻️ Record Updated Dialog
-Shows that student details were updated successfully.
-
-![Updated Dialog](images/image2.png)
-
----
-
-### ❌ After Record  Has Been Deleted Dialog
-Displays the table after deleting the record.
-
-![Deleted Dialog](images/image5.png)
+## 📸 **Images**
+All screenshots demonstrating the application's functionality are stored in the images/ folder in this repository.
